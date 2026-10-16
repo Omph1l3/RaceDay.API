@@ -1,4 +1,5 @@
-# RaceDay.API
+RaceDay.API
+
 # RaceDay - Event Management System
 
 ## Project Overview
@@ -304,17 +305,6 @@ The GitHub Actions workflow (`.github/workflows/dotnet.yml`) is configured to:
 
 🎥 **Watch the walkthrough of Part 2** (API demo, code structure, auth, tests):
 
-▶️ **[YouTube Video — Part 2 Walkthrough](https://youtu.be/YOUR_VIDEO_ID)**
-
-The video covers:
-- Running the API and testing endpoints via Swagger
-- Full authentication flow (register → login → authorize)
-- Role-based access enforcement (Participant blocked from Organiser endpoints)
-- Unit test structure and live test run
-- Explanation of EF Core models, DbContext, and migrations
-
-*Replace `YOUR_VIDEO_ID` with your unlisted YouTube link before submitting.*
-
 ---
 
 ## Setup Instructions
@@ -329,7 +319,7 @@ The video covers:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/BusisiweBANDA/poe1raceday.git
+git clone https://github.com/Otlotleng Mabiletsa/raceday.api.git
 cd poe1raceday
 ```
 
@@ -435,7 +425,7 @@ docker run -p 8080:80 raceday-mvc
 - Part 2: GitHub Actions CI/CD workflow
 - Part 2: CI screenshot and README updates
 
-View full commit history: [GitHub Commits](https://github.com/BusisiweBANDA/poe1raceday/commits/main)
+View full commit history: [GitHub Commits](https://github.com/Otlotleng Mabiletsa/raceday.api/commits/main)
 
 ---
 
@@ -454,10 +444,10 @@ View full commit history: [GitHub Commits](https://github.com/BusisiweBANDA/poe1
 
 ## Contact
 
-**Student Name:** Busisiwe Aida Banda  
+**Student Name:** Otlotleng Mabiletsa  
 **Module:** Programming 2B (PROG6212)  
 **Year:** 2026  
-**GitHub:** https://github.com/BusisiweBANDA/poe1raceday
+**GitHub:** https://github.com/Otlotleng Mabiletsa/raceday.api
 
 ---
 
@@ -489,7 +479,7 @@ Here's a summary of what was updated in your README:
 | **Setup Instructions** | Full working steps with actual commands (`Update-Database`, `dotnet run`, `dotnet test`) |
 | **Commit History** | Added Part 2 commits |
 | **References** | Replaced W3Schools/Bootstrap/etc. with proper Microsoft EF Core, ASP.NET Core, JWT, and testing docs |
-| **Contact** | Updated with your name (Busisiwe Banda) and correct GitHub link |
+| **Contact** | Updated with your name (Otlotleng Mabiletsa) and correct GitHub link |
 
 **Before submitting**, do these three things:
 
